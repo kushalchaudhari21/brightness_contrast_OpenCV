@@ -13,5 +13,5 @@ You can think of f(x) as the source image pixels and g(x) as the output image pi
 g(i,j)=α⋅f(i,j)+β
 
 where i and j indicates that the pixel is located in the i-th row and j-th column.
-
-    
+                   ![alt text](https://docs.opencv.org/2.4/_images/Basic_Linear_Transform_Tutorial_Result_0.jpg)
+                   ![alt text](https://docs.opencv.org/3.4/Basic_Linear_Transform_Tutorial_linear_transform_correction.jpg)
